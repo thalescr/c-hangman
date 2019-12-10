@@ -19,3 +19,5 @@ gcc hangman.c
 ```
 a.exe
 ```
+
+![](screenshot.png?raw=true)
