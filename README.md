@@ -20,4 +20,6 @@ gcc hangman.c
 a.exe
 ```
 
+## Screenshot
+
 ![](screenshot.png?raw=true)
